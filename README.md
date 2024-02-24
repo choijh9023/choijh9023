@@ -92,7 +92,7 @@
 
 [`🐾데이터조작어(DML)실습1`](java/SQL/데이터베이스/관계대수/데이터조작어.MD) 
 
-[`🐾데이터조작어(DML)실습2`](java/SQL/데이터베이스/조인/Join.md) 
+[`🐾데이터조작어(DML)실습2`]([java/SQL/데이터베이스/조인/Join.md](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A1%B0%EC%9D%B8/Join.md)) 
 
 [`🐾관계대수이론`](java/SQL/데이터베이스/관계대수/관계대수및집계함수.MD)
 
