@@ -106,7 +106,7 @@
 
 [`🐾데이터모델링개념 및 ER모델`](java/SQL/데이터베이스/데이터모델링/데이터모델링의개념.MD)
 
-[`🐾데이터정규화`](java/SQL/데이터베이스/이상현상과정규화트랜젝션개념/이상현상/데이터베이스정규화.MD)
+[`🐾데이터정규화`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81%EA%B3%BC%EC%A0%95%EA%B7%9C%ED%99%94%ED%8A%B8%EB%9E%9C%EC%A0%9D%EC%85%98%EA%B0%9C%EB%85%90/%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%A0%95%EA%B7%9C%ED%99%94.MD)
 
 </div>
 </details>
