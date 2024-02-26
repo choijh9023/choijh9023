@@ -67,7 +67,7 @@
 # 람다식 정리 
 [`🦾람다 정리 및 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/lambda)
 
-[`🦾Stream정리🦾`](java/java_advance/src/stream/stream.md)
+[`🦾Stream정리🦾`](https://github.com/choijh9023/learn-and-study/blob/main/java/java_advance/src/stream/stream.md)
 
 [`🦾Stream 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/stream)
 
@@ -84,27 +84,27 @@
 
 [`🐾데이터베이스`](https://hammerhead-chauffeur-43c.notion.site/88fec798bf8f4ed8bf0bce04e4d62f58?pvs=4) -> sql 기본 개념및 이론 
 
-[`🐾데이터베이스`](java/SQL/데이터베이스/무결성제약조건/데이터베이스.md)
+[`🐾데이터베이스`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%AC%B4%EA%B2%B0%EC%84%B1%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 
-[`🐾데이터정의어(DDL)`](java/SQL/데이터베이스/데이터정의어/데이터정의어.MD)
+[`🐾데이터정의어(DDL)`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EC%9D%98%EC%96%B4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EC%9D%98%EC%96%B4.MD)
 
-[`🐾데이터조작어(DML)이론`](java/SQL/데이터베이스/데이터정의어/데이터정의어.MD)
+[`🐾데이터조작어(DML)이론`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EC%9D%98%EC%96%B4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EC%9D%98%EC%96%B4.MD)
 
-[`🐾데이터조작어(DML)실습1`](java/SQL/데이터베이스/관계대수/데이터조작어.MD) 
+[`🐾데이터조작어(DML)실습1`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EA%B4%80%EA%B3%84%EB%8C%80%EC%88%98/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A1%B0%EC%9E%91%EC%96%B4.MD) 
 
 [`🐾데이터조작어(DML)실습2`](https://github.com/choijh9023/learn-and-study/blob/c353b821de981d1f6a1acfcc2828db3f3b001484/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A1%B0%EC%9D%B8/Join.md) 
 
-[`🐾관계대수이론`](java/SQL/데이터베이스/관계대수/관계대수및집계함수.MD)
+[`🐾관계대수이론`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EA%B4%80%EA%B3%84%EB%8C%80%EC%88%98/%EA%B4%80%EA%B3%84%EB%8C%80%EC%88%98%EB%B0%8F%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.MD)
 
 [`🐾무결성제약조건`](java/SQL/데이터베이스/무결성제약조건/데이터베이스.md)
 
-[`🐾SQL내장함수/View/Index`](java/SQL/데이터베이스/SQL고급/SQL고급.MD)
+[`🐾SQL내장함수/View/Index`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%EA%B3%A0%EA%B8%89/SQL%EA%B3%A0%EA%B8%89.MD)
 
-[`🐾SQL 트리거,펑션,프리시저`](java/SQL/데이터베이스/SQL심화/저장프로시저.MD)
+[`🐾SQL 트리거,펑션,프리시저`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%EC%8B%AC%ED%99%94/%EC%A0%80%EC%9E%A5%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.MD)
 
-[`🐾SQL 실습TEST`](java/SQL/데이터베이스/SQL실습코드.MD)
+[`🐾SQL 실습TEST`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%EC%8B%A4%EC%8A%B5%EC%BD%94%EB%93%9C.MD)
 
-[`🐾데이터모델링개념 및 ER모델`](java/SQL/데이터베이스/데이터모델링/데이터모델링의개념.MD)
+[`🐾데이터모델링개념 및 ER모델`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%EB%A7%81/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%EA%B0%9C%EB%85%90.MD)
 
 [`🐾데이터정규화`](https://github.com/choijh9023/learn-and-study/blob/main/java/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81%EA%B3%BC%EC%A0%95%EA%B7%9C%ED%99%94%ED%8A%B8%EB%9E%9C%EC%A0%9D%EC%85%98%EA%B0%9C%EB%85%90/%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%A0%95%EA%B7%9C%ED%99%94.MD)
 
