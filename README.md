@@ -29,11 +29,19 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 
-# ▶️LINK
+# 🐝프로젝트🐝
 
-[Insta](https://www.instagram.com/choi.moon.seok2/)
+[`재고관리 프로젝트`]
+
+[`쇼핑몰OCR기반 리뷰프로젝트` - BACK ](https://github.com/SSGProjectStarRoad/StarRoad_UserBackend)
+
+[`쇼핑몰OCR기반 리뷰프로젝트` - FRONT](https://github.com/SSGProjectStarRoad/StarRoad_UserUI)
+
+
 
 ---
+
+
 
 
 
