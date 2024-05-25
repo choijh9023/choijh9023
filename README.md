@@ -30,7 +30,6 @@
 
 
 # ▶️LINK
-[Tstory](https://choijh9023.tistory.com/)
 
 [Insta](https://www.instagram.com/choi.moon.seok2/)
 
