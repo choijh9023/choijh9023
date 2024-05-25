@@ -33,9 +33,15 @@
 
 [`재고관리 프로젝트`]
 
-[`쇼핑몰OCR기반 리뷰프로젝트` - BACK ](https://github.com/SSGProjectStarRoad/StarRoad_UserBackend)
+## 쇼핑몰OCR기반 리뷰 프로젝트 
+- 담당파트
+   - 유저페이지->매장안내
+   - 관리자페이지->매장추가 및 회원가입
 
-[`쇼핑몰OCR기반 리뷰프로젝트` - FRONT](https://github.com/SSGProjectStarRoad/StarRoad_UserUI)
+[`쇼핑몰OCR기반 리뷰프로젝트` - BACK_GITHUB ](https://github.com/SSGProjectStarRoad/StarRoad_UserBackend)
+
+
+[`쇼핑몰OCR기반 리뷰프로젝트` - FRONT_GITHUB](https://github.com/SSGProjectStarRoad/StarRoad_UserUI)
 
 
 
