@@ -78,9 +78,9 @@
 ---
 ## 재고관리 프로젝트 
 
-## 재고관리 프로젝트 2번쨰 버전 
+## 재고관리 프로젝트 2번째 버전
 
-['재고관리 프로젝트 래퍼지토리` - GITHUB](https://github.com/choijh9023/WMS-)
+[`재고관리 프로젝트 래퍼지토리` - GITHUB](https://github.com/choijh9023/WMS-)
 
 ## 쇼핑몰OCR기반 리뷰 프로젝트 
 - 담당파트
