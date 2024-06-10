@@ -29,21 +29,23 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 
-# 🐝프로젝트🐝
+# 프로젝트
 ## Book 프로젝트 (개발 공부 후 첫 프로젝트 )
-
 
 [`Book 프로젝트` -GITHUB](https://github.com/choijh9023/BookProject)
 
- <details>
-<summary>회고 </summary>
-<div markdown="1">
    
 ### 목적
 
 - 자바를 처음을 학습을 하였고, 활용해서 Book Project를 구현해볼것 (CLI기반)
 
----
+<details>
+<summary>회고 </summary>
+<div markdown="1">
+
+
+
+
 
 ## 부족했던 점
 
@@ -76,23 +78,31 @@
 </details>
 
 ---
-## 재고관리 프로젝트 
-
-## 재고관리 프로젝트 2번째 버전
-
-[`재고관리 스프링부트 프로젝트` - GITHUB](https://github.com/choijh9023/WMS-)
-
-## 쇼핑몰OCR기반 리뷰 프로젝트 
-- 담당파트
-   - 유저페이지->매장안내
-   - 관리자페이지->매장추가 및 회원가입
-
-[`쇼핑몰OCR기반 리뷰프로젝트` - BACK_GITHUB ](https://github.com/SSGProjectStarRoad/StarRoad_UserBackend)
 
 
-[`쇼핑몰OCR기반 리뷰프로젝트` - FRONT_GITHUB](https://github.com/SSGProjectStarRoad/StarRoad_UserUI)
+# 쇼핑몰 프로젝트 (타임리프, 마이바티스 적용)
+
+### 프로젝트 포트폴리오 
+[`쇼핑몰 창고 관리 프로젝트`](https://hammerhead-chauffeur-43c.notion.site/6302a3ccd89e43e19f20a6301501cf1e?pvs=4)
+
+### Git 링크
+[`쇼핑몰 창고 관리 프로젝트` - GITHUB](https://github.com/choijh9023/WMS-)
+
+---
+
+# OCR리뷰서비스 프로젝트 
+
+### 프로젝트 포트폴리오
+[`OCR리뷰서비스 프로젝트`](https://hammerhead-chauffeur-43c.notion.site/STAR-ROAD-OCR-df41adf25f0b4dccadc011f1aef84003?pvs=4)
 
 
+### 프로젝트 깃허브 
+[`OCR리뷰서비스 프로젝트` - BACK_GITHUB ](https://github.com/SSGProjectStarRoad/StarRoad_UserBackend)
+
+
+[`OCR리뷰서비스 프로젝트` - FRONT_GITHUB](https://github.com/SSGProjectStarRoad/StarRoad_UserUI)
+
+[`OCR리뷰서비스 프로젝트` - Admin_GITHUB](https://github.com/SSGProjectStarRoad/StarRoad_admin)
 
 ---
 
@@ -100,16 +110,9 @@
 
 
 
+# study
 
-# 🐝정처기 정리🐝
-[`정처기이론1과목 1-1 응용 소프트웨어 기초 기술`](https://github.com/choijh9023/learn-and-study/blob/c353b821de981d1f6a1acfcc2828db3f3b001484/java/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B8%B0%EB%B0%98%EA%B8%B0%EC%88%A01-1.MD)
-
-[`정처기이론1과목 1-2 애플리케이션 설계`](https://github.com/choijh9023/learn-and-study/blob/c353b821de981d1f6a1acfcc2828db3f3b001484/java/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B8%B0%EB%B0%98%EA%B8%B0%EC%88%A01-2.MD)
-# 🐝[Mini Project]🐝 
-[`Board`](https://github.com/choijh9023/learn-and-study/tree/main/java/BoardTest/BoardTest/src)  -> 24년 1월 10일 업로드 개발 1개월차 기본 게시판 작성 작업 완료 
-
-
-# 🐝[study] 🐝
+---
 
  <details>
 <summary>JAVA 기초 </summary>
@@ -138,7 +141,20 @@
 </div>
 </details>
 
- -> 자바 회고록 
+ <details>
+<summary> 정처기 공부  </summary>
+<div markdown="1">
+ 
+[`정처기이론1과목 1-1 응용 소프트웨어 기초 기술`](https://github.com/choijh9023/learn-and-study/blob/c353b821de981d1f6a1acfcc2828db3f3b001484/java/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B8%B0%EB%B0%98%EA%B8%B0%EC%88%A01-1.MD)
+
+[`정처기이론1과목 1-2 애플리케이션 설계`](https://github.com/choijh9023/learn-and-study/blob/c353b821de981d1f6a1acfcc2828db3f3b001484/java/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B8%B0%EB%B0%98%EA%B8%B0%EC%88%A01-2.MD)
+
+ 
+</div>
+</details>
+
+
+
 
  <details>
 <summary>데이터베이스 기초 </summary>
@@ -173,6 +189,6 @@
 </div>
 </details>
 
--> 데이터베이스 회고록 
+
 
 
