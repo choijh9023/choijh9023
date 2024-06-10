@@ -4,6 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### 안녕하세요 소통과 협업의 가치를 아는 개발자 최문석입니다. 
 
 
 <!-- Body -->
@@ -11,9 +12,24 @@
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
+
+**Back**
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![springboot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-the-badge&logo=Node.js&logoColor=black)
+
+
+
+**Front**
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
+![VUE](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=black)
+
+
 
 
 
@@ -27,6 +43,10 @@
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=FIGMA&logoColor=white)
+<details>
+<summary>프로젝트 </summary>
+<div markdown="1">
 
 
 # 프로젝트
@@ -104,10 +124,14 @@
 
 [`OCR리뷰서비스 프로젝트` - Admin_GITHUB](https://github.com/SSGProjectStarRoad/StarRoad_admin)
 
----
+</div>
+</details>
 
 
 
+ <details>
+<summary>Study </summary>
+<div markdown="1">
 
 
 # study
@@ -188,7 +212,8 @@
 
 </div>
 </details>
-
+</div>
+</details>
 
 
 
