@@ -4,17 +4,24 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 안녕하세요 소통과 협업의 가치를 아는 개발자 최문석입니다. 
+### 안녕하세요 소통과 협업의 가치를 아는 개발자 최문석입니다.  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choijh9023&layout=compact)
 
+<!-- Body -->        
 
-<!-- Body -->
+<div align="right">
+   
+ 
+  
+</div>
+
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choijh9023&layout=compact)
+
 
 **Back**
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
