@@ -23,15 +23,10 @@
   
 </div>
 
+# Skill
 
-### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
-<!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
+## 🛠️Back
 
-
-
-
-**Back**
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +35,8 @@
 
 
 
-**Front**
+## 🛠️Front
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
@@ -51,7 +47,7 @@
 
 
 
-**🛠️ Infra and Tools**
+## 🛠️Infra and Tools
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -62,24 +58,37 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=FIGMA&logoColor=white)
-<details>
-<summary>프로젝트 </summary>
-<div markdown="1">
+
 
 
 # 프로젝트
-## Book 프로젝트 (개발 공부 후 첫 프로젝트 )
 
-[`Book 프로젝트` -GITHUB](https://github.com/choijh9023/BookProject)
 
+## 쇼핑몰기반 창고관리시스템(CLI방식)
+[소스코드](https://github.com/choijh9023/WMS_Project-CLI-)
+
+## 쇼핑몰기반 통합관리시스템(SpringBoot + MyBatis + WebMVC)
+[소스코드](https://github.com/choijh9023/WMS_Project-SpringBoot-)
+
+## STARROAD(OCR리뷰서비스프로젝트)
+[Admin소스코드](https://github.com/choijh9023/StarRoad_admin)
+
+[UserFront소스코드](https://github.com/choijh9023/StarRoad_UserUI)
+
+[UserBack](https://github.com/choijh9023/StarRoad_Backend)
+
+
+---
+### Mini프로젝트 
+[Book 프로젝트](https://github.com/choijh9023/BookProject)
+<details>
+<summary>Detail</summary>
+<div markdown="1">
    
 ### 목적
 
 - 자바를 처음을 학습을 하였고, 활용해서 Book Project를 구현해볼것 (CLI기반)
 
-<details>
-<summary>회고 </summary>
-<div markdown="1">
 
 
 
@@ -91,7 +100,7 @@
 - Class를 어떻게 나눠야 할지도 막막했고, 어떤 메소드가 필요하고 어떤 필드가 필요한지도 이때를 지금 회상해보니 정말 모르는 상태가 확실했다.
 - 기본적인 다이어그램을 작성하는 법도 아예 모르는 상태였고, 내가 어떤 부분을 맡아서 진행할수있는지에 대해 확실히 알고있었다. 나는 이 시점에는 할 수 있는 부분이 없었다.
 
----
+
 
 ## 부족했던 점을 보완했던 방법
 
@@ -104,7 +113,7 @@
 - 그리고 그런 시점이 와서야 내가 무엇이 부족한지를 내가 정확하게 아는 순간이 왔고 그때부터는 부족한 부분을 파고 들기 시작하였습니다.
 - 그리고 직접 다이어그램 작성(클래스다이어그램,시퀀스다이어그램,플로우차트)등등 을 하면서 점점 눈에 익히기 시작하였습니다.
 
----
+
 
 ## 회고 및 느낀점
 
@@ -116,36 +125,6 @@
 </details>
 
 ---
-
-
-# 쇼핑몰 프로젝트 (타임리프, 마이바티스 적용)
-
-### 프로젝트 포트폴리오 
-[`쇼핑몰 창고 관리 프로젝트`](https://hammerhead-chauffeur-43c.notion.site/6302a3ccd89e43e19f20a6301501cf1e?pvs=4)
-
-### Git 링크
-[`쇼핑몰 창고 관리 프로젝트` - GITHUB](https://github.com/choijh9023/WMS-)
-
----
-
-# OCR리뷰서비스 프로젝트 
-
-### 프로젝트 포트폴리오
-[`OCR리뷰서비스 프로젝트`](https://hammerhead-chauffeur-43c.notion.site/STAR-ROAD-OCR-df41adf25f0b4dccadc011f1aef84003?pvs=4)
-
-
-### 프로젝트 깃허브 
-[`OCR리뷰서비스 프로젝트` - BACK_GITHUB ](https://github.com/SSGProjectStarRoad/StarRoad_UserBackend)
-
-
-[`OCR리뷰서비스 프로젝트` - FRONT_GITHUB](https://github.com/SSGProjectStarRoad/StarRoad_UserUI)
-
-[`OCR리뷰서비스 프로젝트` - Admin_GITHUB](https://github.com/SSGProjectStarRoad/StarRoad_admin)
-
-</div>
-</details>
-
-
 
  <details>
 <summary>Study </summary>
@@ -195,7 +174,7 @@
 </div>
 </details>
 
-
+---
 
 
  <details>
