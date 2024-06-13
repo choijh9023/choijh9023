@@ -4,12 +4,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 안녕하세요 소통과 협업의 가치를 아는 개발자 최문석입니다.  
+### 안녕하세요 소통과 협업의 가치를 아는 개발자 최문석입니다.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choijh9023&show_icons=true&theme=tokyonight" alt="Anurag's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choijh9023&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=choijh9023&show_icons=true&theme=default" alt="Anurag's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choijh9023&layout=compact&theme=default" alt="Top Langs"/>
 </p>
+
 
 
 
