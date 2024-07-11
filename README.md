@@ -6,10 +6,11 @@
 
 ### 안녕하세요 소통과 협업의 가치를 아는 개발자 최문석입니다.
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=choijh9023&show_icons=true&theme=default" alt="Anurag's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choijh9023&layout=compact&theme=default" alt="Top Langs"/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choijh9023)](https://solved.ac/choijh9023/)
+ <a href="https://solved.ac/choijh9023/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choijh9023" alt="Solved.ac Profile"/>
 
 </p>
 
