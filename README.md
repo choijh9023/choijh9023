@@ -9,6 +9,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=choijh9023&show_icons=true&theme=default" alt="Anurag's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choijh9023&layout=compact&theme=default" alt="Top Langs"/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choijh9023)](https://solved.ac/choijh9023/)
+
 </p>
 
 
